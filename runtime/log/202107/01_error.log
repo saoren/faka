@@ -1,0 +1,25 @@
+---------------------------------------------------------------
+[ 2021-07-01T10:20:29+08:00 ] 113.214.192.146 GET /
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 's346864'@'localhost' (using password: YES)[/www/wwwroot/vorp.top/framework/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2021-07-01T10:21:51+08:00 ] 54.36.148.179 GET /robots.txt
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 's346864'@'localhost' (using password: YES)[/www/wwwroot/vorp.top/framework/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2021-07-01T10:23:01+08:00 ] 113.214.192.146 GET /install
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 's346864'@'localhost' (using password: YES)[/www/wwwroot/vorp.top/framework/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2021-07-01T12:26:54+08:00 ] 113.214.192.146 GET /manage/email/test?address=15257222873%40163.com
+[ error ] [2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known[/www/wwwroot/vorp.top/extend/Util/Mailer/SMTP.class.php:132]
+[ error ] [2]fsockopen(): unable to connect to ssl://:25 (php_network_getaddresses: getaddrinfo failed: Name or service not known)[/www/wwwroot/vorp.top/extend/Util/Mailer/SMTP.class.php:132]
+[ error ] [2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known[/www/wwwroot/vorp.top/extend/Util/Mailer/SMTP.class.php:132]
+[ error ] [2]fsockopen(): unable to connect to ssl://:25 (php_network_getaddresses: getaddrinfo failed: Name or service not known)[/www/wwwroot/vorp.top/extend/Util/Mailer/SMTP.class.php:132]
+[ error ] [2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known[/www/wwwroot/vorp.top/extend/Util/Mailer/SMTP.class.php:132]
+[ error ] [2]fsockopen(): unable to connect to ssl://:25 (php_network_getaddresses: getaddrinfo failed: Name or service not known)[/www/wwwroot/vorp.top/extend/Util/Mailer/SMTP.class.php:132]
+---------------------------------------------------------------
+[ 2021-07-01T12:28:15+08:00 ] 113.214.192.146 GET /manage/email/test?address=15257222873%40163.com
+[ error ] [2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known[/www/wwwroot/vorp.top/extend/Util/Mailer/SMTP.class.php:132]
+[ error ] [2]fsockopen(): unable to connect to ssl://:25 (php_network_getaddresses: getaddrinfo failed: Name or service not known)[/www/wwwroot/vorp.top/extend/Util/Mailer/SMTP.class.php:132]
+[ error ] [2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known[/www/wwwroot/vorp.top/extend/Util/Mailer/SMTP.class.php:132]
+[ error ] [2]fsockopen(): unable to connect to ssl://:25 (php_network_getaddresses: getaddrinfo failed: Name or service not known)[/www/wwwroot/vorp.top/extend/Util/Mailer/SMTP.class.php:132]
+[ error ] [2]fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known[/www/wwwroot/vorp.top/extend/Util/Mailer/SMTP.class.php:132]
+[ error ] [2]fsockopen(): unable to connect to ssl://:25 (php_network_getaddresses: getaddrinfo failed: Name or service not known)[/www/wwwroot/vorp.top/extend/Util/Mailer/SMTP.class.php:132]

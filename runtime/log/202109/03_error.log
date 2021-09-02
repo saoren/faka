@@ -1,0 +1,6 @@
+---------------------------------------------------------------
+[ 2021-09-03T00:34:38+08:00 ] 113.214.204.84 GET /
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'faka'@'localhost' (using password: YES)[/www/wwwroot/vorp.top/framework/library/think/db/Connection.php:293]
+---------------------------------------------------------------
+[ 2021-09-03T00:34:38+08:00 ] 113.214.204.84 GET /favicon.ico
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'faka'@'localhost' (using password: YES)[/www/wwwroot/vorp.top/framework/library/think/db/Connection.php:293]

@@ -1,0 +1,1 @@
+<?php if(substr(PHP_VERSION,0,3)>"5.4"){session_name('s'.substr(md5(__FILE__),0,8));define('APP_PATH', __DIR__ .'/application/');define('RUNTIME_PATH', __DIR__ .'/runtime/');require __DIR__ .'/framework/start.php';}else{echo"请修改PHP版本，需要PHP版本大于5.4才可以运行此程序！";}

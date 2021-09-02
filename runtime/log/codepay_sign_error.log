@@ -1,0 +1,65 @@
+【2021-07-01 11:13:08】
+测试记录sign的数据
+id=556555&notify_url=http://vorp.top/pay/notify/CodePayQqScan&pay_id=T210701111308200048&price=0.01&return_url=http://vorp.top/pay/page/CodePayQqScan&type=2aqirrRd2IvyLk88Szxg3H926PvtfZ1e
+sign签名：230e6ab326d88ef11f014de92bf85079
+
+【2021-07-01 11:13:16】
+测试记录sign的数据
+id=556555&notify_url=http://vorp.top/pay/notify/CodePayQqScan&pay_id=T210701111316200087&price=0.01&return_url=http://vorp.top/pay/page/CodePayQqScan&type=2aqirrRd2IvyLk88Szxg3H926PvtfZ1e
+sign签名：946e7af03c3f5acea35a18bf31cd6a5c
+
+【2021-07-01 11:13:20】
+测试记录sign的数据
+id=556555&notify_url=http://vorp.top/pay/notify/CodePayAliScan&pay_id=T210701111320200040&price=0.01&return_url=http://vorp.top/pay/page/CodePayAliScan&type=1aqirrRd2IvyLk88Szxg3H926PvtfZ1e
+sign签名：17fdcee695c5ee2a4de4b4e60abeb831
+
+【2021-07-01 11:31:18】
+测试记录sign的数据
+id=556555&notify_url=http://vorp.top/pay/notify/CodePayAliScan&pay_id=T210701113118200072&price=0.01&return_url=http://vorp.top/pay/page/CodePayAliScan&type=1aqirrRd2IvyLk88Szxg3H926PvtfZ1e
+sign签名：1146153235c1d0ca6972840deef06c68
+
+【2021-07-01 11:32:03】
+测试记录sign的数据
+id=556555&notify_url=http://vorp.top/pay/notify/CodePayQqScan&pay_id=T210701113203200028&price=0.01&return_url=http://vorp.top/pay/page/CodePayQqScan&type=2aqirrRd2IvyLk88Szxg3H926PvtfZ1e
+sign签名：74b01a20677199a750bd8e85fca82bea
+
+【2021-07-01 11:37:16】
+测试记录sign的数据
+id=556555&notify_url=https://vorp.top/pay/notify/CodePayAliScan&pay_id=T210701113716200034&price=0.01&return_url=https://vorp.top/pay/page/CodePayAliScan&type=1aqirrRd2IvyLk88Szxg3H926PvtfZ1e
+sign签名：e69eb0f310a2699aae5a649dec209cf5
+
+【2021-07-01 11:46:30】
+测试记录sign的数据
+id=556555&notify_url=https://vorp.top/pay/notify/CodePayAliScan&pay_id=T210701114630200020&price=0.01&return_url=https://vorp.top/pay/page/CodePayAliScan&type=1aqirrRd2IvyLk88Szxg3H926PvtfZ1e
+sign签名：35f76ec0e22373afd705b29e0e21a2af
+
+【2021-07-01 11:47:46】
+测试记录sign的数据
+amount=0&codepay_server_time=1625111266&endTime=1625111596&id=1761301077272&mode=0&money=0.01&ok=1&pay_id=T210701114630200020&pay_no=2021070122001438521421101868&pay_time=1625111266&price=0.01&qr=1&qr_user=68507&status=0&tag=qr162511123667574&target=get&trueID=556555&type=1&userID=556555aqirrRd2IvyLk88Szxg3H926PvtfZ1e
+sign签名：febf42bf13c92f18bfdd689b0455dd42
+
+【2021-07-01 12:04:36】
+测试记录sign的数据
+id=556555&notify_url=https://vorp.top/pay/notify/CodePayAliScan&pay_id=T210701120436200070&price=0.01&return_url=https://vorp.top/pay/page/CodePayAliScan&type=1aqirrRd2IvyLk88Szxg3H926PvtfZ1e
+sign签名：6b4d52a255c22c7cf32cac5dcd558dd4
+
+【2021-07-01 12:05:45】
+测试记录sign的数据
+id=556555&notify_url=https://vorp.top/pay/notify/CodePayAliScan&pay_id=T210701120545200014&price=0.01&return_url=https://vorp.top/pay/page/CodePayAliScan&type=1aqirrRd2IvyLk88Szxg3H926PvtfZ1e
+sign签名：de7220a3fbfaf2a41b9c49c9660f49e4
+
+【2021-07-01 12:06:07】
+测试记录sign的数据
+amount=0&codepay_server_time=1625112366&endTime=1625112707&id=1761304076893&mode=0&money=0.01&ok=1&pay_id=T210701120545200014&pay_no=2021070122001438521421396723&pay_time=1625112366&price=0.01&qr=1&qr_user=68507&status=0&tag=qr162511234740200&target=get&trueID=556555&type=1&userID=556555aqirrRd2IvyLk88Szxg3H926PvtfZ1e
+sign签名：20fd90f207d6b516dccdbd6dd097ad92
+
+【2021-07-01 12:08:39】
+测试记录sign的数据
+id=556555&notify_url=https://vorp.top/pay/notify/CodePayAliScan&pay_id=T210701120839200080&price=0.01&return_url=https://vorp.top/pay/page/CodePayAliScan&type=1aqirrRd2IvyLk88Szxg3H926PvtfZ1e
+sign签名：61f9900e1d800bb0a7df264c0669d051
+
+【2021-07-01 12:08:55】
+测试记录sign的数据
+amount=0&codepay_server_time=1625112534&endTime=1625112881&id=1761304249213&mode=0&money=0.01&ok=1&pay_id=T210701120839200080&pay_no=2021070122001438521420802859&pay_time=1625112534&price=0.01&qr=1&qr_user=68507&status=0&tag=qr162511252116420&target=get&trueID=556555&type=1&userID=556555aqirrRd2IvyLk88Szxg3H926PvtfZ1e
+sign签名：9ce19b7eb55618b37b073b007a0024fc
+
